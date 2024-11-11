@@ -10,7 +10,6 @@ zh-TW:
         indexable: 您的公開嘟文可能會顯示於 Mastodon 之搜尋結果中。曾與您嘟文互動過的人可能無論如何都能搜尋它們。
         note: '您可以 @mention 其他人或者使用 #主題標籤。'
         show_collections: 人們將能瀏覽您跟隨中及跟隨者帳號。您所跟隨之使用者能得知您正在跟隨其帳號。
-        unlocked: 人們將無需額外請求您的同意便能跟隨您的帳號。取消勾選以審查跟隨請求並選擇是否同意或拒絕新跟隨者。
       account_alias:
         acct: 指定要移動的帳號之「使用者名稱@網域名稱」
       account_migration:
